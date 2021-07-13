@@ -1,11 +1,9 @@
-# [Título del trabajo]
-
-[Descripción breve del proyecto a realizar (2-3 frases).]
-
+# Servicio bancario
+El trabajo consiste en un banco online con distintas opciones, desde añadir clientes y asociarles diferentes cuentas bancarias, hasta ingresar/retirar dinero, realizar pagos, transferencias o inversiones. 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Joshua Guila Valderueda - Joshgv25
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+El objetivo es mostrar el dominio del uso de funciones, ficheros y sentencias de control 
